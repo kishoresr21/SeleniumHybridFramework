@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25031" started-at="2017-03-14T04:15:22Z" finished-at="2017-03-14T04:15:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25031" started-at="2017-03-14T04:15:22Z" finished-at="2017-03-14T04:15:47Z">
+      <class name="testcases.VerifyLogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.VerifyLogin@5b54614c]" name="setUp" is-config="true" duration-ms="12578" started-at="2017-03-14T00:15:22Z" finished-at="2017-03-14T00:15:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testHomePage()[pri:0, instance:testcases.VerifyLogin@5b54614c]" name="testHomePage" duration-ms="11488" started-at="2017-03-14T00:15:34Z" finished-at="2017-03-14T00:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.VerifyLogin@5b54614c]" name="closeBrowser" is-config="true" duration-ms="946" started-at="2017-03-14T00:15:46Z" finished-at="2017-03-14T00:15:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.VerifyLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
